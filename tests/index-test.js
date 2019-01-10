@@ -1,8 +1,8 @@
 import expect from 'expect'
 import React from 'react'
-import {render, unmountComponentAtNode} from 'react-dom'
+import { render, unmountComponentAtNode } from 'react-dom'
 
-import Component from 'src/'
+import Pagination from 'src/'
 
 describe('Component', () => {
   let node
@@ -15,9 +15,9 @@ describe('Component', () => {
     unmountComponentAtNode(node)
   })
 
-  it('displays a welcome message', () => {
-    render(<Component/>, node, () => {
-      expect(node.innerHTML).toContain('Welcome to React components')
+  it('displays a default fake message', () => {
+    render(<Pagination />, node, () => {
+      expect(node.innerHTML).toContain('pagination here')
     })
   })
 })
