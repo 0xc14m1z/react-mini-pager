@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Pagination = props => (
+const Pager = ({ totalPagesCount, currentPage, visiblePages, children }) => (
   <div>
     pagination here
   </div>
 )
 
-export default Pagination
+export default Pager

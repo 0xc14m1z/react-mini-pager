@@ -6,7 +6,7 @@ import Example from '../../src'
 class Demo extends Component {
   render() {
     return <div>
-      <h1>react-pagination-mini Demo</h1>
+      <h1>react-mini-pager Demo</h1>
       <Example/>
     </div>
   }

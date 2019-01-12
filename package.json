@@ -1,7 +1,7 @@
 {
-  "name": "react-pagination-mini",
+  "name": "react-mini-pager",
   "version": "0.0.1",
-  "description": "Pagination component for ReactJS with render delegation.",
+  "description": "Mini pagination component for ReactJS with render delegation.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -31,13 +31,13 @@
   },
   "author": "0xc14m1z <0xc14m1z@gmail.com>",
   "bugs": {
-    "url": "https://github.com/0xc14m1z/react-pagination-mini/issues"
+    "url": "https://github.com/0xc14m1z/react-mini-pager/issues"
   },
-  "homepage": "https://github.com/0xc14m1z/react-pagination-mini#readme",
+  "homepage": "https://github.com/0xc14m1z/react-mini-pager#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xc14m1z/react-pagination-mini.git"
+    "url": "git+https://github.com/0xc14m1z/react-mini-pager.git"
   },
   "keywords": [
     "pagination",

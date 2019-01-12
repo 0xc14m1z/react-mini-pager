@@ -1,10 +1,10 @@
-# react-pagination-mini
+# react-mini-pager
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Pagination component for ReactJS with render delegation.
+Mini pagination component for ReactJS with render delegation.
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
