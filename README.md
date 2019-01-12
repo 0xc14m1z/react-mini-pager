@@ -6,11 +6,11 @@
 
 Mini pagination component for ReactJS with render delegation.
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+[build-badge]: https://travis-ci.org/0xc14m1z/react-mini-pager.svg?branch=master
+[build]: https://travis-ci.org/0xc14m1z/react-mini-pager
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[npm-badge]: https://badge.fury.io/js/react-mini-pager.svg
+[npm]: https://badge.fury.io/js/react-mini-pager
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[coveralls-badge]: https://coveralls.io/repos/github/0xc14m1z/react-mini-pager/badge.svg
+[coveralls]: https://coveralls.io/github/0xc14m1z/react-mini-pager
