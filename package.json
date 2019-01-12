@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "nwb": "0.23.x",
+    "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
@@ -39,6 +40,7 @@
     "url": "git+https://github.com/0xc14m1z/react-pagination-mini.git"
   },
   "keywords": [
-    "pagination", "react-component"
+    "pagination",
+    "react-component"
   ]
 }
